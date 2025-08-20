@@ -70,7 +70,7 @@ body{
 .hero h1{font-size:clamp(28px, 3.2vw, 44px); line-height:1.2; margin:0 0 12px 0}
 .hero p{color:var(--muted); margin:0 0 18px 0}
 .text-accent{color:var(--blue)}
-.hero-art img{width:100%; height:auto;}
+.hero-art img{width:100%; height:auto;border-radius: 30px;}
 
 .center{text-align:center}
 
